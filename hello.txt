@@ -2,4 +2,4 @@ hello,iam learning git and github.
 this is my practice file.
 learning step by step.
 this is feature2 branch content.
-iam learning git,its fun!.
+iam learning git.
